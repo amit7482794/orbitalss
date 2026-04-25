@@ -1,0 +1,37 @@
+ .container {
+  position: fixed;
+  top: 20px;
+  left: 20px;
+  display: flex;
+  gap: 12px;
+  z-index: 50;
+  
+}
+
+.login {
+  padding: 10px 16px;
+  border: 1px solid #333;
+  background: transparent;
+  border-radius: 8px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.login:hover {
+  background: #333;
+  color: white;
+}
+
+.signup {
+  padding: 10px 16px;
+  background: #2563eb;
+  color: white;
+  border-radius: 8px;
+  font-weight: 600;
+  border: none;
+  cursor: pointer;
+}
+
+.signup:hover {
+  background: #1d4ed8;
+}
