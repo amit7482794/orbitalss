@@ -62,7 +62,7 @@
         type="submit"
         className="bg-yellow-400 text-black py-3 rounded-lg font-semibold hover:scale-105 transition hover:bg-sky-700"
       >
-        Login
+        SignUp
       </button>
 
     </form>
