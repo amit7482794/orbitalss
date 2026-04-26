@@ -9,13 +9,13 @@
         <h1 className="text-lg font-semibold">ORBITALS</h1>
 
         <div className="hidden md:flex gap-13 text-gray-300">
-          <a href="#" class="text-gray-100 hover:text-yellow-400 transition duration-800 hover:underline hover:scale-130">
+          <a href="#" className="text-gray-100 hover:text-yellow-400 transition duration-800 hover:underline hover:scale-130">
   Why us
 </a>
-  <a href="#" class="text-gray-100 hover:text-yellow-400 transition duration-800 hover:underline hover:scale-130">
+  <a href="#" className="text-gray-100 hover:text-yellow-400 transition duration-800 hover:underline hover:scale-130">
   What you'll learn
 </a>
-  <a href="#" class="text-gray-100 hover:text-yellow-400 transition duration-800 hover:underline hover:scale-130">
+  <a href="#" className="text-gray-100 hover:text-yellow-400 transition duration-800 hover:underline hover:scale-130">
   Pricing
 </a> 
         </div>
